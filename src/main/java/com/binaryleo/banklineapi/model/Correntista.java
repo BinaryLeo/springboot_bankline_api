@@ -16,6 +16,7 @@ public class Correntista {
 	private Integer id; // account id
 	@Column(length = 20)
 	private String cpf; // account Brazilian CPF number
+	// Know more about CPF : https://github.com/BinaryLeo/js_cpf_validation
 	@Column(length = 60)
 	private String nome; // account name
     @Embedded //relationship 
