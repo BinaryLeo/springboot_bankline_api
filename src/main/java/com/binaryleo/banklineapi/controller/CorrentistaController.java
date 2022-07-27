@@ -16,7 +16,7 @@ import com.binaryleo.banklineapi.dto.NovoCorrentista;
 import com.binaryleo.banklineapi.model.Correntista;
 import com.binaryleo.banklineapi.repository.CorrentistaRepository;
 import com.binaryleo.banklineapi.service.CorrentistaService;
-
+// Enables Routes for the service
 @RestController
 @RequestMapping("/correntistas") //endpoint
 public class CorrentistaController {

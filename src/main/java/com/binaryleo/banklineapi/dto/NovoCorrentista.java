@@ -1,5 +1,5 @@
 package com.binaryleo.banklineapi.dto;
-
+//Data Transfer Object 
 public class NovoCorrentista {
     private String nome;
     private String cpf; //

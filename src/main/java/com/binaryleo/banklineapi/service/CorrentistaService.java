@@ -14,6 +14,7 @@ public class CorrentistaService {
     @Autowired
     private CorrentistaRepository repository;
     public void save(NovoCorrentista novoCorrentista) {
+        // Receives a new Correntista instance and saves it to the repository
         Correntista correntista = new Correntista();
         correntista.setCpf(novoCorrentista.getCpf());
         correntista.setNome(novoCorrentista.getNome());
