@@ -2,8 +2,8 @@
 A bankline API Rest built using spring Boot
 
 
-- [Correntistas /Customers](https://binaryleo-bankline-api.herokuapp.com/correntistas)
-- [Movimentações/Transactions](https://binaryleo-bankline-api.herokuapp.com/movimentacao)
+- [Correntistas / Customers](https://binaryleo-bankline-api.herokuapp.com/correntistas)
+- [Movimentações / Transactions](https://binaryleo-bankline-api.herokuapp.com/movimentacao)
 
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
