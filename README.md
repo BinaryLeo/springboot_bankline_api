@@ -1,9 +1,11 @@
-# springboot_bankline_api
+# springboot_bankline_api![spring-boot-icon0_cf21dec4-5056-b3a8-49c015fd3bde6cb5-1179217886](https://user-images.githubusercontent.com/72607039/181774905-5b6eb36b-894f-4883-bff5-a224339e1701.png)
+
+
 A bankline API Rest built using spring Boot
 
 
-- [Correntistas / Customers](https://binaryleo-bankline-api.herokuapp.com/correntistas)
-- [Movimentações / Transactions](https://binaryleo-bankline-api.herokuapp.com/movimentacao)
+- [Correntistas | Customers](https://binaryleo-bankline-api.herokuapp.com/correntistas)
+- [Movimentações | Transactions](https://binaryleo-bankline-api.herokuapp.com/movimentacao)
 
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -44,3 +46,23 @@ Database:
 
 ## 💡 endpoints
 
+
+
+- [GET] /correntistas
+- [POST] /correntistas
+
+
+- [GET] /movimentacao
+- [POST]/movimentacao
+
+
+Deploy:
+
+- [Correntistas | Customers](https://binaryleo-bankline-api.herokuapp.com/correntistas)
+- [Movimentações | Transactions](https://binaryleo-bankline-api.herokuapp.com/movimentacao)
+
+## 📄 License
+
+This project was built under MIT. See the file [LICENSE](LICENSE) for more details.
+
+---
