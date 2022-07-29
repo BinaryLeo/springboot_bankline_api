@@ -1,19 +1,28 @@
-# springboot_bankline_api![spring-boot-icon0_cf21dec4-5056-b3a8-49c015fd3bde6cb5-1179217886](https://user-images.githubusercontent.com/72607039/181774905-5b6eb36b-894f-4883-bff5-a224339e1701.png)
+- [Correntistas | Customers](https://binaryleo-bankline-api.herokuapp.com/correntistas)
+- [Movimentações | Transactions](https://binaryleo-bankline-api.herokuapp.com/movimentacao)
+
+<div align="center" style="margin: 20px; text-align: center">
+
+# springboot_bankline_api
+![spring-boot-icon0_cf21dec4-5056-b3a8-49c015fd3bde6cb5-1179217886](https://user-images.githubusercontent.com/72607039/181774905-5b6eb36b-894f-4883-bff5-a224339e1701.png)
 
 
 A bankline API Rest built using spring Boot
 
-
-- [Correntistas | Customers](https://binaryleo-bankline-api.herokuapp.com/correntistas)
-- [Movimentações | Transactions](https://binaryleo-bankline-api.herokuapp.com/movimentacao)
-
+  [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/BinaryLeo/springboot_bankline_api/blob/main/LICENSE)
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/BinaryLeo/springboot_bankline_api?color=blue">
+  ![GitHub last commit](https://img.shields.io/github/last-commit/BinaryLeo/springboot_bankline_api?style=flat-square)
+  ![GitHub top language](https://img.shields.io/github/languages/top/BinaryLeo/springboot_bankline_api?style=flat-square)
 <p align="center">
+
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-requirements">Requirements</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-endpoints">Endpoints</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>
 </p>
+</div>
+
 
 
 ## 🧪 technologies
